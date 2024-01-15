@@ -1,0 +1,1944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>G:\My Drive\Projects\Prj_NFCReader\nfc-st25r3916\KiCad\cardboard\cardboard.kicad_sch</source>
+    <date>2024-01-13 12:58:43</date>
+    <tool>Eeschema 7.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>cardboard.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="AE300">
+      <value>Ant_NFC</value>
+      <footprint>Lol_20230821:Jarvis_NFC_Ant</footprint>
+      <libsource lib="Lol_20230821" part="Ant_NFC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa487458-a7a3-4c09-a8ce-9d4a30d3269f</tstamps>
+    </comp>
+    <comp ref="C100">
+      <value>2u2</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">20%</field>
+        <field name="Voltage">6V3</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="20%"/>
+      <property name="Voltage" value="6V3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34e514b2-10f1-466d-b1e9-e67a22385fc8</tstamps>
+    </comp>
+    <comp ref="C200">
+      <value>1u</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0baf21af-d326-450d-8b40-6d0ef8f85e32</tstamps>
+    </comp>
+    <comp ref="C201">
+      <value>10n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09814e1f-7014-473d-810d-86a07487b7e3</tstamps>
+    </comp>
+    <comp ref="C202">
+      <value>1n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21c87dbb-8719-4665-9a61-8798c1fe5743</tstamps>
+    </comp>
+    <comp ref="C203">
+      <value>22n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">20%</field>
+        <field name="Voltage">6V3</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="20%"/>
+      <property name="Voltage" value="6V3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>162ed1ae-444a-44ae-909c-3614f8bd7d6c</tstamps>
+    </comp>
+    <comp ref="C204">
+      <value>10n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a22eadc-07a3-4262-8322-c0c536cd5e99</tstamps>
+    </comp>
+    <comp ref="C205">
+      <value>4u7</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">6V3</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="6V3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04c0a2fa-2d73-4954-92bc-d137679e6bcb</tstamps>
+    </comp>
+    <comp ref="C206">
+      <value>10n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8962bab-3823-4881-b950-39c093d15349</tstamps>
+    </comp>
+    <comp ref="C207">
+      <value>2u2</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">20%</field>
+        <field name="Voltage">6V3</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="20%"/>
+      <property name="Voltage" value="6V3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f202528-2d9b-4feb-ad0a-3fd14d23dbad</tstamps>
+    </comp>
+    <comp ref="C208">
+      <value>10n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fd287d2-cc89-493c-9482-7e796a7be588</tstamps>
+    </comp>
+    <comp ref="C209">
+      <value>10n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3692f8b1-5b7e-41ef-b32d-b49ffad38789</tstamps>
+    </comp>
+    <comp ref="C210">
+      <value>2u2</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">20%</field>
+        <field name="Voltage">6V3</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="20%"/>
+      <property name="Voltage" value="6V3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd7575c5-f699-4374-8753-2d779007c8c2</tstamps>
+    </comp>
+    <comp ref="C211">
+      <value>10n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>482edf64-c11d-43f5-832e-cbf75e5076c9</tstamps>
+    </comp>
+    <comp ref="C212">
+      <value>2u2</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">20%</field>
+        <field name="Voltage">6V3</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="20%"/>
+      <property name="Voltage" value="6V3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50c11d6b-a81d-4d1a-a053-e8d93a01e48a</tstamps>
+    </comp>
+    <comp ref="C213">
+      <value>10p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e649421-6576-4ade-9cfe-691f3bf04dd7</tstamps>
+    </comp>
+    <comp ref="C214">
+      <value>10p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1c817b2-278d-46c1-9050-1e4f8510c3ec</tstamps>
+    </comp>
+    <comp ref="C215">
+      <value>10n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b132c105-1bf7-4750-bf3d-396de3e6786b</tstamps>
+    </comp>
+    <comp ref="C216">
+      <value>2u2</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">20%</field>
+        <field name="Voltage">6V3</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="20%"/>
+      <property name="Voltage" value="6V3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12006ebc-49d7-4707-9182-fbf33af157fb</tstamps>
+    </comp>
+    <comp ref="C217">
+      <value>10n</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X7R</field>
+        <field name="Tolerance">10%</field>
+        <field name="Voltage">25V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X7R"/>
+      <property name="Tolerance" value="10%"/>
+      <property name="Voltage" value="25V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>013b2009-f31d-441b-bfeb-309ed5dba2d9</tstamps>
+    </comp>
+    <comp ref="C218">
+      <value>2u2</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">X5R</field>
+        <field name="Tolerance">20%</field>
+        <field name="Voltage">6V3</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="X5R"/>
+      <property name="Tolerance" value="20%"/>
+      <property name="Voltage" value="6V3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b1e0a804-6de7-4692-be00-f4aca6bb979c</tstamps>
+    </comp>
+    <comp ref="C300">
+      <value>180p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19ba6551-99e9-49c3-8440-2d18fd2a08e8</tstamps>
+    </comp>
+    <comp ref="C301">
+      <value>10p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b569665-b566-4499-8e90-71eccfc34f24</tstamps>
+    </comp>
+    <comp ref="C302">
+      <value>LXRW0YV600-054</value>
+      <footprint>Lol_20230821:LXRW0YV600054 Handsolder</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</datasheet>
+      <fields>
+        <field name="Height">0.3</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="LXRW0YV600-054_Drawn" description="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <property name="Height" value="0.3"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="LXRW0YV600-054"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0facafcd-c91e-411e-a8de-5792aaccd9ee</tstamps>
+    </comp>
+    <comp ref="C303">
+      <value>100p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd295844-0225-4e57-b037-e4e08d46386b</tstamps>
+    </comp>
+    <comp ref="C304">
+      <value>LXRW0YV600-054</value>
+      <footprint>Lol_20230821:LXRW0YV600054 Handsolder</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</datasheet>
+      <fields>
+        <field name="Height">0.3</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="LXRW0YV600-054_Drawn" description="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <property name="Height" value="0.3"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="LXRW0YV600-054"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_description" value="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e3b33e3-5b0e-4758-9b36-9722f3d120d6</tstamps>
+    </comp>
+    <comp ref="C305">
+      <value>680p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8beaa475-5f7d-4408-b82f-c25e14333203</tstamps>
+    </comp>
+    <comp ref="C306">
+      <value>56p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a074d33-c0d4-46b2-b14c-27c5f015d7a7</tstamps>
+    </comp>
+    <comp ref="C307">
+      <value>LXRW0YV600-054</value>
+      <footprint>Lol_20230821:LXRW0YV600054 Handsolder</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</datasheet>
+      <fields>
+        <field name="Height">0.3</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="LXRW0YV600-054_Drawn" description="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <property name="Height" value="0.3"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="LXRW0YV600-054"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_description" value="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed1a6b72-6a82-434d-9e42-7bd5722b2298</tstamps>
+    </comp>
+    <comp ref="C308">
+      <value>680p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51f31991-1e4c-49f2-982c-8aee231e6abd</tstamps>
+    </comp>
+    <comp ref="C309">
+      <value>56p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e282a030-f37b-4686-a162-74700cdd8a20</tstamps>
+    </comp>
+    <comp ref="C310">
+      <value>100p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d8be201-70c7-4878-93e9-e6439300b5d3</tstamps>
+    </comp>
+    <comp ref="C311">
+      <value>LXRW0YV600-054</value>
+      <footprint>Lol_20230821:LXRW0YV600054 Handsolder</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</datasheet>
+      <fields>
+        <field name="Height">0.3</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="LXRW0YV600-054_Drawn" description="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <property name="Height" value="0.3"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="LXRW0YV600-054"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>138702cc-a6ae-485e-8090-d284dbdf9e97</tstamps>
+    </comp>
+    <comp ref="C312">
+      <value>10p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e41e2f5-d86a-4f2e-82b9-8971a50dde10</tstamps>
+    </comp>
+    <comp ref="C313">
+      <value>180p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0f23065-8d98-4339-9bb9-81a20a4feb45</tstamps>
+    </comp>
+    <comp ref="C314">
+      <value>LXRW0YV600-054</value>
+      <footprint>Lol_20230821:LXRW0YV600054 Handsolder</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</datasheet>
+      <fields>
+        <field name="Height">0.3</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="LXRW0YV600-054_Drawn" description="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <property name="Height" value="0.3"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="LXRW0YV600-054"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c35fb32f-127b-4df4-b933-ffdf091e3d49</tstamps>
+    </comp>
+    <comp ref="C315">
+      <value>82p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8993918b-6318-44da-8282-45e9c305d184</tstamps>
+    </comp>
+    <comp ref="C316">
+      <value>82p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41924f41-e661-47b0-9200-bb88a0532b1e</tstamps>
+    </comp>
+    <comp ref="C317">
+      <value>47p</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Dielectric">C0G</field>
+        <field name="Tolerance">1%</field>
+        <field name="Voltage">50V</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="C" description="Unpolarized capacitor"/>
+      <property name="Dielectric" value="C0G"/>
+      <property name="Tolerance" value="1%"/>
+      <property name="Voltage" value="50V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bccc6a1-901f-4429-9fbc-a600f2d79b3d</tstamps>
+    </comp>
+    <comp ref="D300">
+      <value>BAV70W-7-F</value>
+      <footprint>SOT65P210X100-3N</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds30063.pdf</datasheet>
+      <fields>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">BAV70W-7-F</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="BAV70W-7-F" description="Diodes Inc 75V 300mA, Dual Silicon Junction Diode, 3-Pin SOT-323 BAV70W-7-F"/>
+      <property name="Height" value="1"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Diodes Incorporated"/>
+      <property name="Manufacturer_Part_Number" value="BAV70W-7-F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Diodes Inc 75V 300mA, Dual Silicon Junction Diode, 3-Pin SOT-323 BAV70W-7-F"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>513724d0-9ea8-4fd5-ac61-b90cca0939d2</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Lol_20230821" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9666a87-bf5b-4842-b762-0366233604e5</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Lol_20230821" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57c0a6f8-6f34-4d81-bc14-c41ecf2d15fe</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Lol_20230821" part="MountingHole_Pad_NC" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dbeb713-27c2-4ba1-8cf9-3f9608370ea5</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
+      <libsource lib="Lol_20230821" part="MountingHole_Pad_NC" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f2d2dce-1521-4bb9-980b-789094c224e2</tstamps>
+    </comp>
+    <comp ref="J300_1">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9864835a-a888-40c4-a00f-0b8b6628caaf</tstamps>
+    </comp>
+    <comp ref="J300_2">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3e99bac-c83b-494f-9ea4-d7925faaa8a0</tstamps>
+    </comp>
+    <comp ref="J400">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0828b32c-53a0-4b32-a479-ae829ce6f8a3</tstamps>
+    </comp>
+    <comp ref="J401">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0f24748-035f-4138-b827-adcca7e89f4c</tstamps>
+    </comp>
+    <comp ref="J402">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11b1c363-8fc0-49ec-9037-a1bb8a72cd73</tstamps>
+    </comp>
+    <comp ref="J403">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffa54162-edd9-44e8-ab91-0b9edd16ab10</tstamps>
+    </comp>
+    <comp ref="J406">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89902d17-d2cc-4838-8abc-df31cc2098de</tstamps>
+    </comp>
+    <comp ref="J407">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a3f0282-8f9c-4f0d-acde-034bc4956fb9</tstamps>
+    </comp>
+    <comp ref="J408">
+      <value>Conn_01x01_Female</value>
+      <footprint>Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_TH_Square" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57fd1148-35f5-4fbc-8e9e-313b62602b3f</tstamps>
+    </comp>
+    <comp ref="J411">
+      <value>Conn_01x02_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d80a539-08cd-41b8-9c80-d28c23495a3d</tstamps>
+    </comp>
+    <comp ref="J412">
+      <value>Conn_01x08_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x08_Pin" description="Generic connector, single row, 01x08, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x08, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85d6b67b-21c7-4b32-a7c0-73da81a71daa</tstamps>
+    </comp>
+    <comp ref="J413">
+      <value>8P8C</value>
+      <footprint>Connector_RJ:RJ45_Amphenol_RJHSE5380</footprint>
+      <libsource lib="Connector" part="8P8C_Shielded" description="RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61, Shielded"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61, Shielded"/>
+      <property name="ki_keywords" value="8P8C RJ socket connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c7d578b-d432-4391-8971-0a42d152fb92</tstamps>
+    </comp>
+    <comp ref="L300">
+      <value>MLJ1608WR27JT000</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_mlj1608_en.pdf</datasheet>
+      <fields>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">MLJ1608WR27JT000</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="Lol_L" description=""/>
+      <property name="Height" value="0.95"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="MLJ1608WR27JT000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68abdbd7-7f4d-497b-99b3-72e94e05839c</tstamps>
+    </comp>
+    <comp ref="L301">
+      <value>MLJ1608WR27JT000</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_mlj1608_en.pdf</datasheet>
+      <fields>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">MLJ1608WR27JT000</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="Lol_L" description=""/>
+      <property name="Height" value="0.95"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="MLJ1608WR27JT000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3df73dce-717a-4c20-affc-448acf5fb85c</tstamps>
+    </comp>
+    <comp ref="L400">
+      <value>MLJ1608WR27JT000</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_mlj1608_en.pdf</datasheet>
+      <fields>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">MLJ1608WR27JT000</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="Lol_L" description=""/>
+      <property name="Height" value="0.95"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="MLJ1608WR27JT000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0d10219-84a2-4504-bf46-7536be6fbb84</tstamps>
+    </comp>
+    <comp ref="LED100">
+      <value>~</value>
+      <footprint>MP008285</footprint>
+      <fields>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">Multicomp Pro</field>
+        <field name="Manufacturer_Part_Number">MP008285</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="Lol_LED" description="LED, Red, SMD, 0603 [1608 Metric], 20 mA, 2.4 V, 638 nm"/>
+      <property name="Height" value="0.6"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Multicomp Pro"/>
+      <property name="Manufacturer_Part_Number" value="MP008285"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="LED, Red, SMD, 0603 [1608 Metric], 20 mA, 2.4 V, 638 nm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73674ab8-62a4-4a8a-a0c7-f243592f04bb</tstamps>
+    </comp>
+    <comp ref="LED101">
+      <value>~</value>
+      <footprint>MP008285</footprint>
+      <fields>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">Multicomp Pro</field>
+        <field name="Manufacturer_Part_Number">MP008285</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="Lol_LED" description="LED, Red, SMD, 0603 [1608 Metric], 20 mA, 2.4 V, 638 nm"/>
+      <property name="Height" value="0.6"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Multicomp Pro"/>
+      <property name="Manufacturer_Part_Number" value="MP008285"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="LED, Red, SMD, 0603 [1608 Metric], 20 mA, 2.4 V, 638 nm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7efb9a7-91e1-44ff-95d0-490e6ce49b83</tstamps>
+    </comp>
+    <comp ref="P200">
+      <value>U.FL-R-SMT-1_10_</value>
+      <footprint>Lol_20230821:U.FL-R-SMT-1_10_</footprint>
+      <datasheet>https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&amp;productname=U.FL-R-SMT-1(10)&amp;series=U.FL&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000940684</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Hirose</field>
+        <field name="Manufacturer_Part_Number">U.FL-R-SMT-1(10)</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="Lol_U.FL" description="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
+      <property name="Height" value=""/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Hirose"/>
+      <property name="Manufacturer_Part_Number" value="U.FL-R-SMT-1(10)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85903871-bfd7-4e82-96ba-8bdcfc370a9e</tstamps>
+    </comp>
+    <comp ref="P202">
+      <value>U.FL-R-SMT-1_10_</value>
+      <footprint>Lol_20230821:U.FL-R-SMT-1_10_</footprint>
+      <datasheet>https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&amp;productname=U.FL-R-SMT-1(10)&amp;series=U.FL&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000940684</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">Hirose</field>
+        <field name="Manufacturer_Part_Number">U.FL-R-SMT-1(10)</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="Lol_U.FL" description="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
+      <property name="Height" value=""/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Hirose"/>
+      <property name="Manufacturer_Part_Number" value="U.FL-R-SMT-1(10)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1adc661e-1e13-4fb3-aea5-164b1e3494ba</tstamps>
+    </comp>
+    <comp ref="Q300">
+      <value>NX3008NBK,215</value>
+      <footprint>NX3008NBK215</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/NX3008NBK.pdf</datasheet>
+      <fields>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">NX3008NBK,215</field>
+      </fields>
+      <libsource lib="Lol_20230821" part="NX3008NBK,215" description="NEXPERIA - NX3008NBK,215 - MOSFET Transistor, Trench, N Channel, 400 mA, 30 V, 1 ohm, 4.5 V, 900 mV"/>
+      <property name="Height" value="1.1"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Nexperia"/>
+      <property name="Manufacturer_Part_Number" value="NX3008NBK,215"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="NEXPERIA - NX3008NBK,215 - MOSFET Transistor, Trench, N Channel, 400 mA, 30 V, 1 ohm, 4.5 V, 900 mV"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6666ad35-ca53-4be0-a55d-866674878b42</tstamps>
+    </comp>
+    <comp ref="R100">
+      <value>1k</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c16bc7c8-07a0-44f8-8496-6d86899021b1</tstamps>
+    </comp>
+    <comp ref="R101">
+      <value>1k</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40c240e3-2376-4492-b54f-3c4bec291268</tstamps>
+    </comp>
+    <comp ref="R116">
+      <value>1k8 NF</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cba93053-c828-4dcd-90e7-70146f59db14</tstamps>
+    </comp>
+    <comp ref="R117">
+      <value>1k8 NF</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e797555-cb94-48b8-b77e-da4e9ca25ab8</tstamps>
+    </comp>
+    <comp ref="R204">
+      <value>NF</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d579bed3-6b25-436d-baee-cae8ce560fc9</tstamps>
+    </comp>
+    <comp ref="R205">
+      <value>NetTie_2</value>
+      <footprint>Lol_20230821:Lol_0603_tie</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_Link_0603" description="Breakin test point 0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Breakin test point 0603"/>
+      <property name="ki_keywords" value="Break in, Test point, 0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26b23a5d-d312-4efd-ba4d-44c0167e60a9</tstamps>
+    </comp>
+    <comp ref="R300">
+      <value>2R4</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96d01588-92bc-4be9-80f6-ac35fa7e3187</tstamps>
+    </comp>
+    <comp ref="R301">
+      <value>100R</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cba7cffd-1586-4971-b292-e0e115b4b0e6</tstamps>
+    </comp>
+    <comp ref="R302">
+      <value>2R4</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b079e126-1681-44e2-8318-b89b37cc7b20</tstamps>
+    </comp>
+    <comp ref="R303">
+      <value>47k</value>
+      <footprint>Lol_20230821:Lol_0603</footprint>
+      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33baf6ac-2f62-4fd3-b68e-f33ffd0c59e7</tstamps>
+    </comp>
+    <comp ref="R400">
+      <value>NetTie_2</value>
+      <footprint>Lol_20230821:Lol_0603_tie</footprint>
+      <libsource lib="Lol_20230821" part="TestPoint_Link_0603" description="Breakin test point 0603"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Breakin test point 0603"/>
+      <property name="ki_keywords" value="Break in, Test point, 0603"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ff07a57-a921-456f-8441-773fd88d4af3</tstamps>
+    </comp>
+    <comp ref="U200">
+      <value>ST25R3916B-AQWT</value>
+      <footprint>QFN50P500X500X100-33N-D</footprint>
+      <datasheet>https://www.st.com/resource/en/datasheet/st25r3916b.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">ST25R3916B-AQWT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/st25r3916b-aqwt/stmicroelectronics?region=nac</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">ST25R3916B-AQWT</field>
+        <field name="Mouser Part Number">511-ST25R3916B-AQWT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST25R3916B-AQWT?qs=Znm5pLBrcAK6gbJpvnT4Gw%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="ST25R3916B-AQWT" description="NFC/RFID Tags &amp; Transponders NFC reader for payment, consumer and industrial"/>
+      <property name="Height" value="1"/>
+      <property name="Manufacturer_Name" value="STMicroelectronics"/>
+      <property name="Manufacturer_Part_Number" value="ST25R3916B-AQWT"/>
+      <property name="Mouser Part Number" value="511-ST25R3916B-AQWT"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST25R3916B-AQWT?qs=Znm5pLBrcAK6gbJpvnT4Gw%3D%3D"/>
+      <property name="Arrow Part Number" value="ST25R3916B-AQWT"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/st25r3916b-aqwt/stmicroelectronics?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="NFC/RFID Tags &amp; Transponders NFC reader for payment, consumer and industrial"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c43912e-332f-44fe-9808-65cd626c8e15</tstamps>
+    </comp>
+    <comp ref="Y200">
+      <value>NX3225SA-27.12M-STD-CSR-3</value>
+      <footprint>Lol_20230821:NX3225SA12000MHZSTDCSR1</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/NDK%20PDFs/NX3225SA_STD-CSR-3.pdf</datasheet>
+      <fields>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">NDK</field>
+        <field name="Manufacturer_Part_Number">NX3225SA-27.12M-STD-CSR-3</field>
+        <field name="Mouser Part Number">344-NX3225SA27.12MST</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/NDK/NX3225SA-27.12M-STD-CSR-3?qs=w%2Fv1CP2dgqrycwpf4zbGAA%3D%3D</field>
+      </fields>
+      <libsource lib="Lol_SamacSys_Parts" part="NX3225SA-27.12M-STD-CSR-3" description="Crystal SMD 3225 27.12MHz"/>
+      <property name="Height" value="0.6"/>
+      <property name="Mouser Part Number" value="344-NX3225SA27.12MST"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/NDK/NX3225SA-27.12M-STD-CSR-3?qs=w%2Fv1CP2dgqrycwpf4zbGAA%3D%3D"/>
+      <property name="Manufacturer_Name" value="NDK"/>
+      <property name="Manufacturer_Part_Number" value="NX3225SA-27.12M-STD-CSR-3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="ki_description" value="Crystal SMD 3225 27.12MHz"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>700e08fc-4895-4610-a6a7-75a88c3747d1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="8P8C_Shielded">
+      <description>RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61, Shielded</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>8P8C*</fp>
+        <fp>RJ31*</fp>
+        <fp>RJ32*</fp>
+        <fp>RJ33*</fp>
+        <fp>RJ34*</fp>
+        <fp>RJ35*</fp>
+        <fp>RJ41*</fp>
+        <fp>RJ45*</fp>
+        <fp>RJ49*</fp>
+        <fp>RJ61*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">8P8C_Shielded</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="SH" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x08_Pin">
+      <description>Generic connector, single row, 01x08, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="Ant_NFC">
+      <fields>
+        <field name="Reference">AE2</field>
+        <field name="Value">Ant_NFC</field>
+        <field name="Footprint">Lol_20230821:Jarvis_NFC_Ant</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="BAV70W-7-F">
+      <description>Diodes Inc 75V 300mA, Dual Silicon Junction Diode, 3-Pin SOT-323 BAV70W-7-F</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds30063.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAV70W-7-F</field>
+        <field name="Footprint">SOT65P210X100-3N</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds30063.pdf</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">BAV70W-7-F</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C3</field>
+        <field name="Value">C</field>
+        <field name="Footprint">Lol_20230821:Lol_0603</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="LXRW0YV600-054_Drawn">
+      <description>Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">LXRW0YV600-054</field>
+        <field name="Footprint">Lol_20230821:LXRW0YV600054 Handsolder</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</field>
+        <field name="Height">0.3</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="VT" type="passive"/>
+        <pin num="3" name="Pt1" type="passive"/>
+        <pin num="4" name="Pt2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="Lol_L">
+      <docs>https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_mlj1608_en.pdf</docs>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Footprint">Lol_20230821:Lol_0603</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_mlj1608_en.pdf</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">MLJ1608WR27JT000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="Lol_LED">
+      <description>LED, Red, SMD, 0603 [1608 Metric], 20 mA, 2.4 V, 638 nm</description>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">Lol_LED</field>
+        <field name="Footprint">MP008285</field>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">Multicomp Pro</field>
+        <field name="Manufacturer_Part_Number">MP008285</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="Lol_R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Footprint">Lol_20230821:Lol_0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="Lol_U.FL">
+      <description>UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial</description>
+      <docs>https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&amp;productname=U.FL-R-SMT-1(10)&amp;series=U.FL&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000940684</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">U.FL-R-SMT-1_10_</field>
+        <field name="Footprint">Lol_20230821:U.FL-R-SMT-1_10_</field>
+        <field name="Datasheet">https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&amp;productname=U.FL-R-SMT-1(10)&amp;series=U.FL&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000940684</field>
+        <field name="Manufacturer_Name">Hirose</field>
+        <field name="Manufacturer_Part_Number">U.FL-R-SMT-1(10)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="MountingHole_Pad_NC">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Lol_20230821" part="NX3008NBK,215">
+      <description>NEXPERIA - NX3008NBK,215 - MOSFET Transistor, Trench, N Channel, 400 mA, 30 V, 1 ohm, 4.5 V, 900 mV</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/NX3008NBK.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">NX3008NBK,215</field>
+        <field name="Footprint">NX3008NBK215</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/NX3008NBK.pdf</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Nexperia</field>
+        <field name="Manufacturer_Part_Number">NX3008NBK,215</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="TestPoint_Link_0603">
+      <description>Breakin test point 0603</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Net*Tie*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P8</field>
+        <field name="Value">NetTie_2</field>
+        <field name="Footprint">Lol_20230821:Lol_0603_tie</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_20230821" part="TestPoint_TH_Square">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Footprint">Lol_20230821:TestPoint_THTPad_1.0x1.0mm_Drill0.5mm</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Lol_SamacSys_Parts" part="NX3225SA-27.12M-STD-CSR-3">
+      <description>Crystal SMD 3225 27.12MHz</description>
+      <docs>https://media.digikey.com/pdf/Data%20Sheets/NDK%20PDFs/NX3225SA_STD-CSR-3.pdf</docs>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">NX3225SA-27.12M-STD-CSR-3</field>
+        <field name="Footprint">Lol_20230821:NX3225SA12000MHZSTDCSR1</field>
+        <field name="Datasheet">https://media.digikey.com/pdf/Data%20Sheets/NDK%20PDFs/NX3225SA_STD-CSR-3.pdf</field>
+        <field name="Height">0.6</field>
+        <field name="Mouser Part Number">344-NX3225SA27.12MST</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/NDK/NX3225SA-27.12M-STD-CSR-3?qs=w%2Fv1CP2dgqrycwpf4zbGAA%3D%3D</field>
+        <field name="Manufacturer_Name">NDK</field>
+        <field name="Manufacturer_Part_Number">NX3225SA-27.12M-STD-CSR-3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CRYSTAL_1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="CRYSTAL_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="ST25R3916B-AQWT">
+      <description>NFC/RFID Tags &amp; Transponders NFC reader for payment, consumer and industrial</description>
+      <docs>https://www.st.com/resource/en/datasheet/st25r3916b.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ST25R3916B-AQWT</field>
+        <field name="Footprint">QFN50P500X500X100-33N-D</field>
+        <field name="Datasheet">https://www.st.com/resource/en/datasheet/st25r3916b.pdf</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">ST25R3916B-AQWT</field>
+        <field name="Mouser Part Number">511-ST25R3916B-AQWT</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST25R3916B-AQWT?qs=Znm5pLBrcAK6gbJpvnT4Gw%3D%3D</field>
+        <field name="Arrow Part Number">ST25R3916B-AQWT</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/st25r3916b-aqwt/stmicroelectronics?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD_IO" type="passive"/>
+        <pin num="2" name="TAD2" type="passive"/>
+        <pin num="3" name="VDD_D" type="passive"/>
+        <pin num="4" name="XTO" type="passive"/>
+        <pin num="5" name="XTI" type="passive"/>
+        <pin num="6" name="GND_D" type="passive"/>
+        <pin num="7" name="VDD_A" type="passive"/>
+        <pin num="8" name="VDD" type="passive"/>
+        <pin num="9" name="VDD_RF" type="passive"/>
+        <pin num="10" name="VDD_TX" type="passive"/>
+        <pin num="11" name="VDD_AM" type="passive"/>
+        <pin num="12" name="GND_DR_1" type="passive"/>
+        <pin num="13" name="RFO1" type="passive"/>
+        <pin num="14" name="VDD_DR" type="passive"/>
+        <pin num="15" name="RFO2" type="passive"/>
+        <pin num="16" name="GND_DR_2" type="passive"/>
+        <pin num="17" name="EXT_LM" type="passive"/>
+        <pin num="18" name="AAT_A" type="passive"/>
+        <pin num="19" name="AAT_B" type="passive"/>
+        <pin num="20" name="I2C_EN" type="passive"/>
+        <pin num="21" name="VSS" type="passive"/>
+        <pin num="22" name="RFI1" type="passive"/>
+        <pin num="23" name="RFI2" type="passive"/>
+        <pin num="24" name="AGDC" type="passive"/>
+        <pin num="25" name="TAD1" type="passive"/>
+        <pin num="26" name="GND_A" type="passive"/>
+        <pin num="27" name="IRQ" type="passive"/>
+        <pin num="28" name="MCU_CLK" type="passive"/>
+        <pin num="29" name="BSS" type="passive"/>
+        <pin num="30" name="SCLK/SCL" type="passive"/>
+        <pin num="31" name="MOSI" type="passive"/>
+        <pin num="32" name="MISO/SDA" type="passive"/>
+        <pin num="33" name="EP" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Lol_20230821">
+      <uri>C:/Users/lol/Documents/KiCad/LolLibs/symbols/Lol_20230821.kicad_sym</uri>
+    </library>
+    <library logical="Lol_SamacSys_Parts">
+      <uri>C:/SamacSys_PCB_Library/KiCad/SamacSys_Parts.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/SamacSys_PCB_Library/KiCad/SamacSys_Parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/AAT_P">
+      <node ref="C304" pin="2" pinfunction="VT" pintype="passive"/>
+      <node ref="C307" pin="2" pinfunction="VT" pintype="passive"/>
+      <node ref="C314" pin="2" pinfunction="VT" pintype="passive"/>
+      <node ref="P202" pin="1" pintype="passive"/>
+      <node ref="U200" pin="19" pinfunction="AAT_B" pintype="passive"/>
+    </net>
+    <net code="2" name="/AAT_S">
+      <node ref="C302" pin="2" pinfunction="VT" pintype="passive"/>
+      <node ref="C311" pin="2" pinfunction="VT" pintype="passive"/>
+      <node ref="P200" pin="1" pintype="passive"/>
+      <node ref="U200" pin="18" pinfunction="AAT_A" pintype="passive"/>
+    </net>
+    <net code="3" name="/AGDC">
+      <node ref="C200" pin="1" pintype="passive"/>
+      <node ref="C201" pin="1" pintype="passive"/>
+      <node ref="U200" pin="24" pinfunction="AGDC" pintype="passive"/>
+    </net>
+    <net code="4" name="/CS">
+      <node ref="J412" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J413" pin="8" pintype="passive"/>
+      <node ref="U200" pin="29" pinfunction="BSS" pintype="passive"/>
+    </net>
+    <net code="5" name="/EXT_LM">
+      <node ref="J408" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q300" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R303" pin="2" pintype="passive"/>
+      <node ref="U200" pin="17" pinfunction="EXT_LM" pintype="passive"/>
+    </net>
+    <net code="6" name="/IRQ">
+      <node ref="J412" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J413" pin="2" pintype="passive"/>
+      <node ref="U200" pin="27" pinfunction="IRQ" pintype="passive"/>
+    </net>
+    <net code="7" name="/LED1">
+      <node ref="J412" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J413" pin="4" pintype="passive"/>
+      <node ref="R101" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/MISO">
+      <node ref="J412" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J413" pin="5" pintype="passive"/>
+      <node ref="R116" pin="1" pintype="passive"/>
+      <node ref="U200" pin="32" pinfunction="MISO/SDA" pintype="passive"/>
+    </net>
+    <net code="9" name="/MOSI">
+      <node ref="J412" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J413" pin="6" pintype="passive"/>
+      <node ref="U200" pin="31" pinfunction="MOSI" pintype="passive"/>
+    </net>
+    <net code="10" name="/RFI1">
+      <node ref="C300" pin="1" pintype="passive"/>
+      <node ref="C301" pin="2" pintype="passive"/>
+      <node ref="J407" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U200" pin="22" pinfunction="RFI1" pintype="passive"/>
+    </net>
+    <net code="11" name="/RFI2">
+      <node ref="C312" pin="1" pintype="passive"/>
+      <node ref="C313" pin="2" pintype="passive"/>
+      <node ref="J406" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U200" pin="23" pinfunction="RFI2" pintype="passive"/>
+    </net>
+    <net code="12" name="/RFO1">
+      <node ref="J300_1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L300" pin="2" pintype="passive"/>
+      <node ref="U200" pin="13" pinfunction="RFO1" pintype="passive"/>
+    </net>
+    <net code="13" name="/RFO2">
+      <node ref="J300_2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L301" pin="2" pintype="passive"/>
+      <node ref="U200" pin="15" pinfunction="RFO2" pintype="passive"/>
+    </net>
+    <net code="14" name="/SCLK">
+      <node ref="J412" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J413" pin="7" pintype="passive"/>
+      <node ref="R117" pin="1" pintype="passive"/>
+      <node ref="U200" pin="30" pinfunction="SCLK/SCL" pintype="passive"/>
+    </net>
+    <net code="15" name="/VDD">
+      <node ref="C206" pin="1" pintype="passive"/>
+      <node ref="C207" pin="1" pintype="passive"/>
+      <node ref="C215" pin="1" pintype="passive"/>
+      <node ref="C216" pin="1" pintype="passive"/>
+      <node ref="J400" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R400" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U200" pin="10" pinfunction="VDD_TX" pintype="passive"/>
+      <node ref="U200" pin="8" pinfunction="VDD" pintype="passive"/>
+    </net>
+    <net code="16" name="/VDD_A">
+      <node ref="C211" pin="1" pintype="passive"/>
+      <node ref="C212" pin="1" pintype="passive"/>
+      <node ref="U200" pin="7" pinfunction="VDD_A" pintype="passive"/>
+    </net>
+    <net code="17" name="/VDD_AM">
+      <node ref="C202" pin="1" pintype="passive"/>
+      <node ref="C203" pin="1" pintype="passive"/>
+      <node ref="U200" pin="11" pinfunction="VDD_AM" pintype="passive"/>
+    </net>
+    <net code="18" name="/VDD_D">
+      <node ref="C209" pin="1" pintype="passive"/>
+      <node ref="C210" pin="1" pintype="passive"/>
+      <node ref="U200" pin="3" pinfunction="VDD_D" pintype="passive"/>
+    </net>
+    <net code="19" name="/VDD_DR">
+      <node ref="C204" pin="1" pintype="passive"/>
+      <node ref="C205" pin="1" pintype="passive"/>
+      <node ref="C217" pin="1" pintype="passive"/>
+      <node ref="C218" pin="1" pintype="passive"/>
+      <node ref="U200" pin="14" pinfunction="VDD_DR" pintype="passive"/>
+      <node ref="U200" pin="9" pinfunction="VDD_RF" pintype="passive"/>
+    </net>
+    <net code="20" name="/VDD_IO">
+      <node ref="C100" pin="1" pintype="passive"/>
+      <node ref="C208" pin="1" pintype="passive"/>
+      <node ref="L400" pin="1" pintype="passive"/>
+      <node ref="R100" pin="2" pintype="passive"/>
+      <node ref="R116" pin="2" pintype="passive"/>
+      <node ref="R117" pin="2" pintype="passive"/>
+      <node ref="R204" pin="2" pintype="passive"/>
+      <node ref="R400" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U200" pin="1" pinfunction="VDD_IO" pintype="passive"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="C100" pin="2" pintype="passive"/>
+      <node ref="C200" pin="2" pintype="passive"/>
+      <node ref="C201" pin="2" pintype="passive"/>
+      <node ref="C202" pin="2" pintype="passive"/>
+      <node ref="C203" pin="2" pintype="passive"/>
+      <node ref="C204" pin="2" pintype="passive"/>
+      <node ref="C205" pin="2" pintype="passive"/>
+      <node ref="C206" pin="2" pintype="passive"/>
+      <node ref="C207" pin="2" pintype="passive"/>
+      <node ref="C208" pin="2" pintype="passive"/>
+      <node ref="C209" pin="2" pintype="passive"/>
+      <node ref="C210" pin="2" pintype="passive"/>
+      <node ref="C211" pin="2" pintype="passive"/>
+      <node ref="C212" pin="2" pintype="passive"/>
+      <node ref="C213" pin="2" pintype="passive"/>
+      <node ref="C214" pin="2" pintype="passive"/>
+      <node ref="C215" pin="2" pintype="passive"/>
+      <node ref="C216" pin="2" pintype="passive"/>
+      <node ref="C217" pin="2" pintype="passive"/>
+      <node ref="C218" pin="2" pintype="passive"/>
+      <node ref="C300" pin="2" pintype="passive"/>
+      <node ref="C302" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="C304" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="C305" pin="2" pintype="passive"/>
+      <node ref="C306" pin="2" pintype="passive"/>
+      <node ref="C307" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="C308" pin="1" pintype="passive"/>
+      <node ref="C309" pin="1" pintype="passive"/>
+      <node ref="C311" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="C313" pin="1" pintype="passive"/>
+      <node ref="C314" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J412" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J413" pin="3" pintype="passive"/>
+      <node ref="J413" pin="SH" pintype="passive"/>
+      <node ref="LED100" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="LED101" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="P200" pin="2" pintype="passive"/>
+      <node ref="P202" pin="2" pintype="passive"/>
+      <node ref="Q300" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R205" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R303" pin="1" pintype="passive"/>
+      <node ref="U200" pin="12" pinfunction="GND_DR_1" pintype="passive"/>
+      <node ref="U200" pin="16" pinfunction="GND_DR_2" pintype="passive"/>
+      <node ref="U200" pin="21" pinfunction="VSS" pintype="passive"/>
+      <node ref="U200" pin="26" pinfunction="GND_A" pintype="passive"/>
+      <node ref="U200" pin="33" pinfunction="EP" pintype="passive"/>
+      <node ref="U200" pin="6" pinfunction="GND_D" pintype="passive"/>
+      <node ref="Y200" pin="2" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(C302-Pt1)">
+      <node ref="C301" pin="1" pintype="passive"/>
+      <node ref="C302" pin="3" pinfunction="Pt1" pintype="passive"/>
+      <node ref="C303" pin="1" pintype="passive"/>
+      <node ref="C304" pin="4" pinfunction="Pt2" pintype="passive"/>
+      <node ref="C306" pin="1" pintype="passive"/>
+      <node ref="C315" pin="1" pintype="passive"/>
+      <node ref="R300" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C302-Pt2)">
+      <node ref="C302" pin="4" pinfunction="Pt2" pintype="passive"/>
+      <node ref="C303" pin="2" pintype="passive"/>
+      <node ref="C305" pin="1" pintype="passive"/>
+      <node ref="L300" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C304-Pt1)">
+      <node ref="C304" pin="3" pinfunction="Pt1" pintype="passive"/>
+      <node ref="C317" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C307-Pt2)">
+      <node ref="C307" pin="4" pinfunction="Pt2" pintype="passive"/>
+      <node ref="C317" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C311-Pt1)">
+      <node ref="C308" pin="2" pintype="passive"/>
+      <node ref="C310" pin="1" pintype="passive"/>
+      <node ref="C311" pin="3" pinfunction="Pt1" pintype="passive"/>
+      <node ref="L301" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C311-Pt2)">
+      <node ref="C307" pin="3" pinfunction="Pt1" pintype="passive"/>
+      <node ref="C309" pin="2" pintype="passive"/>
+      <node ref="C310" pin="2" pintype="passive"/>
+      <node ref="C311" pin="4" pinfunction="Pt2" pintype="passive"/>
+      <node ref="C312" pin="2" pintype="passive"/>
+      <node ref="C316" pin="2" pintype="passive"/>
+      <node ref="R302" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C314-Pt1)">
+      <node ref="C314" pin="3" pinfunction="Pt1" pintype="passive"/>
+      <node ref="C316" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C314-Pt2)">
+      <node ref="C314" pin="4" pinfunction="Pt2" pintype="passive"/>
+      <node ref="C315" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D300-Pad3)">
+      <node ref="D300" pin="3" pintype="passive"/>
+      <node ref="R301" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(J401-Pin_1)">
+      <node ref="J401" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U200" pin="25" pinfunction="TAD1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(J402-Pin_1)">
+      <node ref="J402" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U200" pin="2" pinfunction="TAD2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(J403-Pin_1)">
+      <node ref="J403" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U200" pin="28" pinfunction="MCU_CLK" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(J411-Pin_1)">
+      <node ref="AE300" pin="1" pintype="passive"/>
+      <node ref="D300" pin="1" pintype="passive"/>
+      <node ref="D300" pin="2" pintype="passive"/>
+      <node ref="J411" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J411" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R300" pin="1" pintype="passive"/>
+      <node ref="R302" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(J412-Pin_1)">
+      <node ref="J412" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J413" pin="1" pintype="passive"/>
+      <node ref="L400" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(LED100-A)">
+      <node ref="LED100" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R100" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(LED101-A)">
+      <node ref="LED101" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R101" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(Q300-D)">
+      <node ref="Q300" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R301" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(U200-I2C_EN)">
+      <node ref="R204" pin="1" pintype="passive"/>
+      <node ref="R205" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U200" pin="20" pinfunction="I2C_EN" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(U200-XTI)">
+      <node ref="C214" pin="1" pintype="passive"/>
+      <node ref="U200" pin="5" pinfunction="XTI" pintype="passive"/>
+      <node ref="Y200" pin="3" pinfunction="CRYSTAL_2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(U200-XTO)">
+      <node ref="C213" pin="1" pintype="passive"/>
+      <node ref="U200" pin="4" pinfunction="XTO" pintype="passive"/>
+      <node ref="Y200" pin="1" pinfunction="CRYSTAL_1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
