@@ -28,7 +28,7 @@ It takes about two hours to run, and outputs data that can be saved as a CSV fil
 
 Feeding that to [this `xyz` script](https://github.com/arielf/scripts/blob/master/xyz) (which requires Python and the Pandas library) can generate visualisations like this one.
 
-[!Heatmap plot of `aat_a` against `aat_b`](47pF-full-tuning-scan.png)
+![Heatmap plot of `aat_a` against `aat_b`](47pF-full-tuning-scan.png)
 
 That was generated with this command: `xyz cl=0 cmap=jet 47pF-full-tuning-scan.csv aat_a aat_b amplitude`
 
