@@ -3315,7 +3315,7 @@
     (property "Value" "LXRW0YV600-054" (at 182.88 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Lol_20230821:LXRW0YV600054 Handsolder" (at 90.5 49.53 0)
+    (property "Footprint" "cardboard:LXRW0_MUR_0-2_0-2" (at 90.5 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf" (at -9.5 49.53 0)
@@ -3418,7 +3418,7 @@
     (property "Value" "LXRW0YV600-054" (at 187.8165 50.5997 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Lol_20230821:LXRW0YV600054 Handsolder" (at 280.34 36.83 0)
+    (property "Footprint" "cardboard:LXRW0_MUR_0-2_0-2" (at 280.34 36.83 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf" (at 380.34 36.83 0)
@@ -3523,7 +3523,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_U.FL") (at 109.22 78.74 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 1adc661e-1e13-4fb3-aea5-164b1e3494ba)
     (property "Reference" "P202" (at 116.84 78.74 0)
       (effects (font (size 1.27 1.27)) (justify top))
@@ -3599,7 +3599,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:TestPoint_Link_0603") (at 50.8 91.44 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 26b23a5d-d312-4efd-ba4d-44c0167e60a9)
     (property "Reference" "R205" (at 52.07 88.9 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -3668,7 +3668,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_R") (at 251.46 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 33baf6ac-2f62-4fd3-b68e-f33ffd0c59e7)
     (property "Reference" "R303" (at 252.73 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4090,7 +4090,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:BAV70W-7-F") (at 259.08 48.26 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 513724d0-9ea8-4fd5-ac61-b90cca0939d2)
     (property "Reference" "D300" (at 264.16 50.8 90)
       (effects (font (size 1.27 1.27)))
@@ -4217,7 +4217,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 254 33.02 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 5d80a539-08cd-41b8-9c80-d28c23495a3d)
     (property "Reference" "J411" (at 261.62 33.02 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4267,7 +4267,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:NX3008NBK,215") (at 254 76.2 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 6666ad35-ca53-4be0-a55d-866674878b42)
     (property "Reference" "Q300" (at 259.08 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4350,7 +4350,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:TestPoint_Link_0603") (at 78.74 22.86 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 6ff07a57-a921-456f-8441-773fd88d4af3)
     (property "Reference" "R400" (at 83.82 22.86 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -4468,7 +4468,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_LED") (at 35.56 96.52 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 73674ab8-62a4-4a8a-a0c7-f243592f04bb)
     (property "Reference" "LED100" (at 38.1 96.52 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4612,7 +4612,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_R") (at 60.96 124.46 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 7e797555-cb94-48b8-b77e-da4e9ca25ab8)
     (property "Reference" "R117" (at 58.42 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4638,7 +4638,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_U.FL") (at 106.68 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 85903871-bfd7-4e82-96ba-8bdcfc370a9e)
     (property "Reference" "P200" (at 114.3 81.28 0)
       (effects (font (size 1.27 1.27)) (justify top))
@@ -4679,7 +4679,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x08_Pin") (at 63.5 40.64 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 85d6b67b-21c7-4b32-a7c0-73da81a71daa)
     (property "Reference" "J412" (at 66.04 33.02 0)
       (effects (font (size 1.27 1.27)))
@@ -5249,7 +5249,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_R") (at 35.56 86.36 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid c16bc7c8-07a0-44f8-8496-6d86899021b1)
     (property "Reference" "R100" (at 33.02 86.36 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5308,7 +5308,7 @@
     (property "Value" "LXRW0YV600-054" (at 203.2 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Lol_20230821:LXRW0YV600054 Handsolder" (at 217.17 -51.74 0)
+    (property "Footprint" "cardboard:LXRW0_MUR_0-2_0-2" (at 217.17 -51.74 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf" (at 217.17 -151.74 0)
@@ -5343,7 +5343,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_R") (at 259.08 68.58 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid cba7cffd-1586-4971-b292-e0e115b4b0e6)
     (property "Reference" "R301" (at 260.35 63.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5369,7 +5369,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_R") (at 53.34 124.46 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid cba93053-c828-4dcd-90e7-70146f59db14)
     (property "Reference" "R116" (at 50.8 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5455,7 +5455,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_R") (at 50.8 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid d579bed3-6b25-436d-baee-cae8ce560fc9)
     (property "Reference" "R204" (at 48.26 83.82 90)
       (effects (font (size 1.27 1.27)) (justify left))
