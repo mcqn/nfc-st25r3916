@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>G:\My Drive\Projects\Prj_NFCReader\nfc-st25r3916\KiCad\cardboard\cardboard.kicad_sch</source>
-    <date>2024-01-13 12:58:43</date>
-    <tool>Eeschema 7.0.7</tool>
+    <source>/home/chris/nfc-st25r3916/KiCad/cardboard/cardboard.kicad_sch</source>
+    <date>Thu 14 Mar 2024 16:56:19 GMT</date>
+    <tool>Eeschema 7.0.10-7.0.10~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -39,6 +39,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">3490047</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047</field>
         <field name="Tolerance">20%</field>
         <field name="Voltage">6V3</field>
       </fields>
@@ -46,6 +48,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="20%"/>
       <property name="Voltage" value="6V3"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047"/>
+      <property name="Farnell Part Number" value="3490047"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -58,6 +62,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">1288202</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/kemet/c0603c105k3pactu/cap-1-f-25v-10-x5r-0603/dp/1288202</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -65,6 +71,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/kemet/c0603c105k3pactu/cap-1-f-25v-10-x5r-0603/dp/1288202"/>
+      <property name="Farnell Part Number" value="1288202"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -77,6 +85,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">3369402</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -84,6 +94,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402"/>
+      <property name="Farnell Part Number" value="3369402"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -96,6 +108,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">2904796</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/kemet/c0603s102k3ractu/cap-1000pf-25v-10-x7r-0603/dp/2904796</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -103,6 +117,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/kemet/c0603s102k3ractu/cap-1000pf-25v-10-x7r-0603/dp/2904796"/>
+      <property name="Farnell Part Number" value="2904796"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -115,6 +131,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">2904704</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/kemet/c0603c223k4racauto/cap-0-022-f-16v-10-x7r-0603/dp/2904704</field>
         <field name="Tolerance">20%</field>
         <field name="Voltage">6V3</field>
       </fields>
@@ -122,6 +140,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="20%"/>
       <property name="Voltage" value="6V3"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/kemet/c0603c223k4racauto/cap-0-022-f-16v-10-x7r-0603/dp/2904704"/>
+      <property name="Farnell Part Number" value="2904704"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -134,6 +154,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">3369402</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -141,6 +163,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402"/>
+      <property name="Farnell Part Number" value="3369402"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -153,6 +177,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">9227784</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/kemet/c0603c475k9pactu/cap-4-7-f-6-3v-10-x5r-0603/dp/9227784</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">6V3</field>
       </fields>
@@ -160,6 +186,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="6V3"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/kemet/c0603c475k9pactu/cap-4-7-f-6-3v-10-x5r-0603/dp/9227784"/>
+      <property name="Farnell Part Number" value="9227784"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -172,6 +200,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">3369402</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -179,6 +209,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402"/>
+      <property name="Farnell Part Number" value="3369402"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -191,6 +223,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">3490047</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047</field>
         <field name="Tolerance">20%</field>
         <field name="Voltage">6V3</field>
       </fields>
@@ -198,6 +232,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="20%"/>
       <property name="Voltage" value="6V3"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047"/>
+      <property name="Farnell Part Number" value="3490047"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -210,6 +246,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">3369402</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -217,6 +255,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402"/>
+      <property name="Farnell Part Number" value="3369402"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -229,6 +269,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">3369402</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -236,6 +278,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402"/>
+      <property name="Farnell Part Number" value="3369402"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -248,6 +292,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">3490047</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047</field>
         <field name="Tolerance">20%</field>
         <field name="Voltage">6V3</field>
       </fields>
@@ -255,6 +301,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="20%"/>
       <property name="Voltage" value="6V3"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047"/>
+      <property name="Farnell Part Number" value="3490047"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -267,6 +315,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">3369402</field>
+        <field name="Farnell Stock/Part">https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -274,6 +324,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Part" value="https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402"/>
+      <property name="Farnell Part Number" value="3369402"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -286,6 +338,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">3490047</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047</field>
         <field name="Tolerance">20%</field>
         <field name="Voltage">6V3</field>
       </fields>
@@ -293,6 +347,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="20%"/>
       <property name="Voltage" value="6V3"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047"/>
+      <property name="Farnell Part Number" value="3490047"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -305,6 +361,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2773103</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/kemet/c0603c100f5gactu/cap-10pf-50v-1-c0g-np0-0603/dp/2773103</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -312,6 +370,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/kemet/c0603c100f5gactu/cap-10pf-50v-1-c0g-np0-0603/dp/2773103"/>
+      <property name="Farnell Part Number" value="2773103"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -324,6 +384,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2773103</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/kemet/c0603c100f5gactu/cap-10pf-50v-1-c0g-np0-0603/dp/2773103</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -331,6 +393,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/kemet/c0603c100f5gactu/cap-10pf-50v-1-c0g-np0-0603/dp/2773103"/>
+      <property name="Farnell Part Number" value="2773103"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -343,6 +407,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">3369402</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -350,6 +416,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402"/>
+      <property name="Farnell Part Number" value="3369402"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -362,6 +430,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">3490047</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047</field>
         <field name="Tolerance">20%</field>
         <field name="Voltage">6V3</field>
       </fields>
@@ -369,6 +439,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="20%"/>
       <property name="Voltage" value="6V3"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047"/>
+      <property name="Farnell Part Number" value="3490047"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -381,6 +453,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X7R</field>
+        <field name="Farnell Part Number">3369402</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402</field>
         <field name="Tolerance">10%</field>
         <field name="Voltage">25V</field>
       </fields>
@@ -388,6 +462,8 @@
       <property name="Dielectric" value="X7R"/>
       <property name="Tolerance" value="10%"/>
       <property name="Voltage" value="25V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cs0603krx7r9bb103/cap-0-01uf-50v-mlcc-0603/dp/3369402"/>
+      <property name="Farnell Part Number" value="3369402"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -400,6 +476,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">X5R</field>
+        <field name="Farnell Part Number">3490047</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047</field>
         <field name="Tolerance">20%</field>
         <field name="Voltage">6V3</field>
       </fields>
@@ -407,6 +485,8 @@
       <property name="Dielectric" value="X5R"/>
       <property name="Tolerance" value="20%"/>
       <property name="Voltage" value="6V3"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/tdk/cga3e3x5r1a225k080ab/cap-aec-q200-2-2uf-10v-mlcc-0603/dp/3490047"/>
+      <property name="Farnell Part Number" value="3490047"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -415,10 +495,12 @@
       <tstamps>b1e0a804-6de7-4692-be00-f4aca6bb979c</tstamps>
     </comp>
     <comp ref="C300">
-      <value>180p</value>
+      <value>220p</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2896379</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/vishay/vj0603a221fxacw1bc/cap-220pf-50v-1-c0g-np0-0603/dp/2896379</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -426,6 +508,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/vishay/vj0603a221fxacw1bc/cap-220pf-50v-1-c0g-np0-0603/dp/2896379"/>
+      <property name="Farnell Part Number" value="2896379"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -438,6 +522,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2773103</field>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/kemet/c0603c100f5gactu/cap-10pf-50v-1-c0g-np0-0603/dp/2773103</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -445,6 +531,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/kemet/c0603c100f5gactu/cap-10pf-50v-1-c0g-np0-0603/dp/2773103"/>
+      <property name="Farnell Part Number" value="2773103"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -454,17 +542,19 @@
     </comp>
     <comp ref="C302">
       <value>LXRW0YV600-054</value>
-      <footprint>Lol_20230821:LXRW0YV600054 Handsolder</footprint>
+      <footprint>cardboard:LXRW0_MUR_0-2_0-2</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</datasheet>
       <fields>
+        <field name="Farnell Part Number">3052318</field>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/murata/lxrw0yv600-054/variable-capacitor-30-60pf-smd/dp/3052318</field>
         <field name="Height">0.3</field>
         <field name="Manufacturer_Name">Murata Electronics</field>
         <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
       </fields>
       <libsource lib="Lol_20230821" part="LXRW0YV600-054_Drawn" description="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
       <property name="Height" value="0.3"/>
-      <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
+      <property name="Farnell Part Number" value="3052318"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/murata/lxrw0yv600-054/variable-capacitor-30-60pf-smd/dp/3052318"/>
       <property name="Manufacturer_Name" value="Murata Electronics"/>
       <property name="Manufacturer_Part_Number" value="LXRW0YV600-054"/>
       <property name="Sheetname" value=""/>
@@ -474,10 +564,12 @@
       <tstamps>0facafcd-c91e-411e-a8de-5792aaccd9ee</tstamps>
     </comp>
     <comp ref="C303">
-      <value>100p</value>
+      <value>33p</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">https://uk.farnell.com/yageo/cc0603frnpo9bn330/cap-33pf-50v-mlcc-0603/dp/3764421</field>
+        <field name="Farnell Price/Stock">3764421</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -485,6 +577,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Price/Stock" value="3764421"/>
+      <property name="Farnell Part Number" value="https://uk.farnell.com/yageo/cc0603frnpo9bn330/cap-33pf-50v-mlcc-0603/dp/3764421"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -519,6 +613,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">3764430</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cc0603frnpo9bn681/cap-680pf-50v-mlcc-0603/dp/3764430</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -526,6 +622,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cc0603frnpo9bn681/cap-680pf-50v-mlcc-0603/dp/3764430"/>
+      <property name="Farnell Part Number" value="3764430"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -534,10 +632,12 @@
       <tstamps>8beaa475-5f7d-4408-b82f-c25e14333203</tstamps>
     </comp>
     <comp ref="C306">
-      <value>56p</value>
+      <value>47p</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2896391</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/vishay/vj0603a470fxacw1bc/cap-47pf-50v-1-c0g-np0-0603/dp/2896391</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -545,6 +645,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/vishay/vj0603a470fxacw1bc/cap-47pf-50v-1-c0g-np0-0603/dp/2896391"/>
+      <property name="Farnell Part Number" value="2896391"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -579,6 +681,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">3764430</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cc0603frnpo9bn681/cap-680pf-50v-mlcc-0603/dp/3764430</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -586,6 +690,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cc0603frnpo9bn681/cap-680pf-50v-mlcc-0603/dp/3764430"/>
+      <property name="Farnell Part Number" value="3764430"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -594,10 +700,12 @@
       <tstamps>51f31991-1e4c-49f2-982c-8aee231e6abd</tstamps>
     </comp>
     <comp ref="C309">
-      <value>56p</value>
+      <value>47p</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2896391</field>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/vishay/vj0603a470fxacw1bc/cap-47pf-50v-1-c0g-np0-0603/dp/2896391</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -605,6 +713,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/vishay/vj0603a470fxacw1bc/cap-47pf-50v-1-c0g-np0-0603/dp/2896391"/>
+      <property name="Farnell Part Number" value="2896391"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -613,10 +723,12 @@
       <tstamps>e282a030-f37b-4686-a162-74700cdd8a20</tstamps>
     </comp>
     <comp ref="C310">
-      <value>100p</value>
+      <value>33p</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">3764421</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cc0603frnpo9bn330/cap-33pf-50v-mlcc-0603/dp/3764421</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -624,6 +736,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cc0603frnpo9bn330/cap-33pf-50v-mlcc-0603/dp/3764421"/>
+      <property name="Farnell Part Number" value="3764421"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -633,17 +747,19 @@
     </comp>
     <comp ref="C311">
       <value>LXRW0YV600-054</value>
-      <footprint>Lol_20230821:LXRW0YV600054 Handsolder</footprint>
+      <footprint>cardboard:LXRW0_MUR_0-2_0-2</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</datasheet>
       <fields>
+        <field name="Farnell Part Number">3052318</field>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/murata/lxrw0yv600-054/variable-capacitor-30-60pf-smd/dp/3052318</field>
         <field name="Height">0.3</field>
         <field name="Manufacturer_Name">Murata Electronics</field>
         <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
       </fields>
       <libsource lib="Lol_20230821" part="LXRW0YV600-054_Drawn" description="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
       <property name="Height" value="0.3"/>
-      <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
+      <property name="Farnell Part Number" value="3052318"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/murata/lxrw0yv600-054/variable-capacitor-30-60pf-smd/dp/3052318"/>
       <property name="Manufacturer_Name" value="Murata Electronics"/>
       <property name="Manufacturer_Part_Number" value="LXRW0YV600-054"/>
       <property name="Sheetname" value=""/>
@@ -657,6 +773,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2773103</field>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/kemet/c0603c100f5gactu/cap-10pf-50v-1-c0g-np0-0603/dp/2773103</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -664,6 +782,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/kemet/c0603c100f5gactu/cap-10pf-50v-1-c0g-np0-0603/dp/2773103"/>
+      <property name="Farnell Part Number" value="2773103"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -672,10 +792,12 @@
       <tstamps>0e41e2f5-d86a-4f2e-82b9-8971a50dde10</tstamps>
     </comp>
     <comp ref="C313">
-      <value>180p</value>
+      <value>220p</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2896379</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/vishay/vj0603a221fxacw1bc/cap-220pf-50v-1-c0g-np0-0603/dp/2896379</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -683,6 +805,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/vishay/vj0603a221fxacw1bc/cap-220pf-50v-1-c0g-np0-0603/dp/2896379"/>
+      <property name="Farnell Part Number" value="2896379"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -692,17 +816,19 @@
     </comp>
     <comp ref="C314">
       <value>LXRW0YV600-054</value>
-      <footprint>Lol_20230821:LXRW0YV600054 Handsolder</footprint>
+      <footprint>cardboard:LXRW0_MUR_0-2_0-2</footprint>
       <datasheet>https://componentsearchengine.com/Datasheets/1/LXRW0YV600-054.pdf</datasheet>
       <fields>
+        <field name="Farnell Part Number">3052318</field>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/murata/lxrw0yv600-054/variable-capacitor-30-60pf-smd/dp/3052318</field>
         <field name="Height">0.3</field>
         <field name="Manufacturer_Name">Murata Electronics</field>
         <field name="Manufacturer_Part_Number">LXRW0YV600-054</field>
       </fields>
       <libsource lib="Lol_20230821" part="LXRW0YV600-054_Drawn" description="Trimmer / Variable Capacitors 50VAC 60pF CSP 0.6x0.6mm"/>
       <property name="Height" value="0.3"/>
-      <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
+      <property name="Farnell Part Number" value="3052318"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/murata/lxrw0yv600-054/variable-capacitor-30-60pf-smd/dp/3052318"/>
       <property name="Manufacturer_Name" value="Murata Electronics"/>
       <property name="Manufacturer_Part_Number" value="LXRW0YV600-054"/>
       <property name="Sheetname" value=""/>
@@ -712,10 +838,12 @@
       <tstamps>c35fb32f-127b-4df4-b933-ffdf091e3d49</tstamps>
     </comp>
     <comp ref="C315">
-      <value>82p</value>
+      <value>150p</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">3764413</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cc0603frnpo9bn151/cap-150pf-50v-mlcc-0603/dp/3764413</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -723,6 +851,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cc0603frnpo9bn151/cap-150pf-50v-mlcc-0603/dp/3764413"/>
+      <property name="Farnell Part Number" value="3764413"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -731,10 +861,12 @@
       <tstamps>8993918b-6318-44da-8282-45e9c305d184</tstamps>
     </comp>
     <comp ref="C316">
-      <value>82p</value>
+      <value>150p</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">3764413</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/yageo/cc0603frnpo9bn151/cap-150pf-50v-mlcc-0603/dp/3764413</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -742,6 +874,9 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Field7" value=""/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/yageo/cc0603frnpo9bn151/cap-150pf-50v-mlcc-0603/dp/3764413"/>
+      <property name="Farnell Part Number" value="3764413"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
@@ -754,6 +889,8 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <fields>
         <field name="Dielectric">C0G</field>
+        <field name="Farnell Part Number">2896391</field>
+        <field name="Farnell Stock/Price">https://uk.farnell.com/vishay/vj0603a470fxacw1bc/cap-47pf-50v-1-c0g-np0-0603/dp/2896391</field>
         <field name="Tolerance">1%</field>
         <field name="Voltage">50V</field>
       </fields>
@@ -761,6 +898,8 @@
       <property name="Dielectric" value="C0G"/>
       <property name="Tolerance" value="1%"/>
       <property name="Voltage" value="50V"/>
+      <property name="Farnell Stock/Price" value="https://uk.farnell.com/vishay/vj0603a470fxacw1bc/cap-47pf-50v-1-c0g-np0-0603/dp/2896391"/>
+      <property name="Farnell Part Number" value="2896391"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="exclude_from_board"/>
@@ -768,27 +907,6 @@
       <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0bccc6a1-901f-4429-9fbc-a600f2d79b3d</tstamps>
-    </comp>
-    <comp ref="D300">
-      <value>BAV70W-7-F</value>
-      <footprint>SOT65P210X100-3N</footprint>
-      <datasheet>https://www.diodes.com/assets/Datasheets/ds30063.pdf</datasheet>
-      <fields>
-        <field name="Height">1</field>
-        <field name="Manufacturer_Name">Diodes Incorporated</field>
-        <field name="Manufacturer_Part_Number">BAV70W-7-F</field>
-      </fields>
-      <libsource lib="Lol_20230821" part="BAV70W-7-F" description="Diodes Inc 75V 300mA, Dual Silicon Junction Diode, 3-Pin SOT-323 BAV70W-7-F"/>
-      <property name="Height" value="1"/>
-      <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
-      <property name="Manufacturer_Name" value="Diodes Incorporated"/>
-      <property name="Manufacturer_Part_Number" value="BAV70W-7-F"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Diodes Inc 75V 300mA, Dual Silicon Junction Diode, 3-Pin SOT-323 BAV70W-7-F"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>513724d0-9ea8-4fd5-ac61-b90cca0939d2</tstamps>
     </comp>
     <comp ref="H1">
       <value>MountingHole_Pad</value>
@@ -813,26 +931,26 @@
       <tstamps>57c0a6f8-6f34-4d81-bc14-c41ecf2d15fe</tstamps>
     </comp>
     <comp ref="H3">
-      <value>MountingHole_Pad</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
-      <libsource lib="Lol_20230821" part="MountingHole_Pad_NC" description="Mounting Hole with connection"/>
+      <value>MountingHole NC</value>
+      <footprint>Lol_20230821:MountingHole_3.2mm_M3_Pad NPTH</footprint>
+      <libsource lib="Lol_20230821" part="MountingHole_Pad_NC" description="Mounting Hole no connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_description" value="Mounting Hole no connection"/>
       <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>8dbeb713-27c2-4ba1-8cf9-3f9608370ea5</tstamps>
+      <tstamps>4e53cb5f-807c-4304-9701-0908e4297d72</tstamps>
     </comp>
     <comp ref="H4">
-      <value>MountingHole_Pad</value>
-      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad</footprint>
-      <libsource lib="Lol_20230821" part="MountingHole_Pad_NC" description="Mounting Hole with connection"/>
+      <value>MountingHole NC</value>
+      <footprint>Lol_20230821:MountingHole_3.2mm_M3_Pad NPTH</footprint>
+      <libsource lib="Lol_20230821" part="MountingHole_Pad_NC" description="Mounting Hole no connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_description" value="Mounting Hole no connection"/>
       <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>0f2d2dce-1521-4bb9-980b-789094c224e2</tstamps>
+      <tstamps>60cf4be8-2afd-4edc-8b42-4c432e1e2dcf</tstamps>
     </comp>
     <comp ref="J300_1">
       <value>Conn_01x01_Female</value>
@@ -935,38 +1053,17 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>57fd1148-35f5-4fbc-8e9e-313b62602b3f</tstamps>
     </comp>
-    <comp ref="J411">
-      <value>Conn_01x02_Pin</value>
-      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
-      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
-      <property name="ki_keywords" value="connector"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5d80a539-08cd-41b8-9c80-d28c23495a3d</tstamps>
-    </comp>
     <comp ref="J412">
       <value>Conn_01x08_Pin</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
       <libsource lib="Connector" part="Conn_01x08_Pin" description="Generic connector, single row, 01x08, script generated"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="dnp"/>
       <property name="ki_description" value="Generic connector, single row, 01x08, script generated"/>
       <property name="ki_keywords" value="connector"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>85d6b67b-21c7-4b32-a7c0-73da81a71daa</tstamps>
-    </comp>
-    <comp ref="J413">
-      <value>8P8C</value>
-      <footprint>Connector_RJ:RJ45_Amphenol_RJHSE5380</footprint>
-      <libsource lib="Connector" part="8P8C_Shielded" description="RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61, Shielded"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61, Shielded"/>
-      <property name="ki_keywords" value="8P8C RJ socket connector"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>9c7d578b-d432-4391-8971-0a42d152fb92</tstamps>
     </comp>
     <comp ref="L300">
       <value>MLJ1608WR27JT000</value>
@@ -976,6 +1073,8 @@
         <field name="Height">0.95</field>
         <field name="Manufacturer_Name">TDK</field>
         <field name="Manufacturer_Part_Number">MLJ1608WR27JT000</field>
+        <field name="Mouser Part Number">MLJ1608WR27JT000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/MLJ1608WR27JT000</field>
       </fields>
       <libsource lib="Lol_20230821" part="Lol_L" description=""/>
       <property name="Height" value="0.95"/>
@@ -983,6 +1082,8 @@
       <property name="Farnell Price/Stock" value=""/>
       <property name="Manufacturer_Name" value="TDK"/>
       <property name="Manufacturer_Part_Number" value="MLJ1608WR27JT000"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/MLJ1608WR27JT000"/>
+      <property name="Mouser Part Number" value="MLJ1608WR27JT000"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -996,6 +1097,8 @@
         <field name="Height">0.95</field>
         <field name="Manufacturer_Name">TDK</field>
         <field name="Manufacturer_Part_Number">MLJ1608WR27JT000</field>
+        <field name="Mouser Part Number">MLJ1608WR27JT000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/MLJ1608WR27JT000</field>
       </fields>
       <libsource lib="Lol_20230821" part="Lol_L" description=""/>
       <property name="Height" value="0.95"/>
@@ -1003,6 +1106,8 @@
       <property name="Farnell Price/Stock" value=""/>
       <property name="Manufacturer_Name" value="TDK"/>
       <property name="Manufacturer_Part_Number" value="MLJ1608WR27JT000"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/MLJ1608WR27JT000"/>
+      <property name="Mouser Part Number" value="MLJ1608WR27JT000"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1013,16 +1118,21 @@
       <footprint>Lol_20230821:Lol_0603</footprint>
       <datasheet>https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_standard_mlj1608_en.pdf</datasheet>
       <fields>
+        <field name="Farnell Price/Stock">17 week back order 14/3/24</field>
         <field name="Height">0.95</field>
         <field name="Manufacturer_Name">TDK</field>
         <field name="Manufacturer_Part_Number">MLJ1608WR27JT000</field>
+        <field name="Mouser Part Number">MLJ1608WR27JT000</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/MLJ1608WR27JT000</field>
       </fields>
       <libsource lib="Lol_20230821" part="Lol_L" description=""/>
       <property name="Height" value="0.95"/>
       <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
+      <property name="Farnell Price/Stock" value="17 week back order 14/3/24"/>
       <property name="Manufacturer_Name" value="TDK"/>
       <property name="Manufacturer_Part_Number" value="MLJ1608WR27JT000"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/MLJ1608WR27JT000"/>
+      <property name="Mouser Part Number" value="MLJ1608WR27JT000"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1044,6 +1154,7 @@
       <property name="Manufacturer_Part_Number" value="MP008285"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
+      <property name="dnp"/>
       <property name="ki_description" value="LED, Red, SMD, 0603 [1608 Metric], 20 mA, 2.4 V, 638 nm"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>73674ab8-62a4-4a8a-a0c7-f243592f04bb</tstamps>
@@ -1052,98 +1163,34 @@
       <value>~</value>
       <footprint>MP008285</footprint>
       <fields>
+        <field name="Farnell Part Number">3796304</field>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/multicomp-pro/mp008275/led-green-90mcd-577nm-0603/dp/3796304</field>
         <field name="Height">0.6</field>
         <field name="Manufacturer_Name">Multicomp Pro</field>
-        <field name="Manufacturer_Part_Number">MP008285</field>
+        <field name="Manufacturer_Part_Number">MP008275</field>
       </fields>
       <libsource lib="Lol_20230821" part="Lol_LED" description="LED, Red, SMD, 0603 [1608 Metric], 20 mA, 2.4 V, 638 nm"/>
       <property name="Height" value="0.6"/>
-      <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
+      <property name="Farnell Part Number" value="3796304"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/multicomp-pro/mp008275/led-green-90mcd-577nm-0603/dp/3796304"/>
       <property name="Manufacturer_Name" value="Multicomp Pro"/>
-      <property name="Manufacturer_Part_Number" value="MP008285"/>
+      <property name="Manufacturer_Part_Number" value="MP008275"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="LED, Red, SMD, 0603 [1608 Metric], 20 mA, 2.4 V, 638 nm"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d7efb9a7-91e1-44ff-95d0-490e6ce49b83</tstamps>
     </comp>
-    <comp ref="P200">
-      <value>U.FL-R-SMT-1_10_</value>
-      <footprint>Lol_20230821:U.FL-R-SMT-1_10_</footprint>
-      <datasheet>https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&amp;productname=U.FL-R-SMT-1(10)&amp;series=U.FL&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000940684</datasheet>
-      <fields>
-        <field name="Manufacturer_Name">Hirose</field>
-        <field name="Manufacturer_Part_Number">U.FL-R-SMT-1(10)</field>
-      </fields>
-      <libsource lib="Lol_20230821" part="Lol_U.FL" description="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
-      <property name="Height" value=""/>
-      <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
-      <property name="Manufacturer_Name" value="Hirose"/>
-      <property name="Manufacturer_Part_Number" value="U.FL-R-SMT-1(10)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>85903871-bfd7-4e82-96ba-8bdcfc370a9e</tstamps>
-    </comp>
-    <comp ref="P202">
-      <value>U.FL-R-SMT-1_10_</value>
-      <footprint>Lol_20230821:U.FL-R-SMT-1_10_</footprint>
-      <datasheet>https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&amp;productname=U.FL-R-SMT-1(10)&amp;series=U.FL&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000940684</datasheet>
-      <fields>
-        <field name="Manufacturer_Name">Hirose</field>
-        <field name="Manufacturer_Part_Number">U.FL-R-SMT-1(10)</field>
-      </fields>
-      <libsource lib="Lol_20230821" part="Lol_U.FL" description="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
-      <property name="Height" value=""/>
-      <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
-      <property name="Manufacturer_Name" value="Hirose"/>
-      <property name="Manufacturer_Part_Number" value="U.FL-R-SMT-1(10)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1adc661e-1e13-4fb3-aea5-164b1e3494ba</tstamps>
-    </comp>
-    <comp ref="Q300">
-      <value>NX3008NBK,215</value>
-      <footprint>NX3008NBK215</footprint>
-      <datasheet>https://assets.nexperia.com/documents/data-sheet/NX3008NBK.pdf</datasheet>
-      <fields>
-        <field name="Height">1.1</field>
-        <field name="Manufacturer_Name">Nexperia</field>
-        <field name="Manufacturer_Part_Number">NX3008NBK,215</field>
-      </fields>
-      <libsource lib="Lol_20230821" part="NX3008NBK,215" description="NEXPERIA - NX3008NBK,215 - MOSFET Transistor, Trench, N Channel, 400 mA, 30 V, 1 ohm, 4.5 V, 900 mV"/>
-      <property name="Height" value="1.1"/>
-      <property name="Farnell Part Number" value=""/>
-      <property name="Farnell Price/Stock" value=""/>
-      <property name="Manufacturer_Name" value="Nexperia"/>
-      <property name="Manufacturer_Part_Number" value="NX3008NBK,215"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="NEXPERIA - NX3008NBK,215 - MOSFET Transistor, Trench, N Channel, 400 mA, 30 V, 1 ohm, 4.5 V, 900 mV"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6666ad35-ca53-4be0-a55d-866674878b42</tstamps>
-    </comp>
-    <comp ref="R100">
-      <value>1k</value>
-      <footprint>Lol_20230821:Lol_0603</footprint>
-      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>c16bc7c8-07a0-44f8-8496-6d86899021b1</tstamps>
-    </comp>
     <comp ref="R101">
       <value>1k</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Farnell Part Number">2332003</field>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/te-connectivity/crgh0603f1k0/res-1k-1-0-2w-0603-thick-film/dp/2332003</field>
+      </fields>
       <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/te-connectivity/crgh0603f1k0/res-1k-1-0-2w-0603-thick-film/dp/2332003"/>
+      <property name="Farnell Part Number" value="2332003"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1151,54 +1198,16 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>40c240e3-2376-4492-b54f-3c4bec291268</tstamps>
     </comp>
-    <comp ref="R116">
-      <value>1k8 NF</value>
-      <footprint>Lol_20230821:Lol_0603</footprint>
-      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>cba93053-c828-4dcd-90e7-70146f59db14</tstamps>
-    </comp>
-    <comp ref="R117">
-      <value>1k8 NF</value>
-      <footprint>Lol_20230821:Lol_0603</footprint>
-      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>7e797555-cb94-48b8-b77e-da4e9ca25ab8</tstamps>
-    </comp>
-    <comp ref="R204">
-      <value>NF</value>
-      <footprint>Lol_20230821:Lol_0603</footprint>
-      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>d579bed3-6b25-436d-baee-cae8ce560fc9</tstamps>
-    </comp>
-    <comp ref="R205">
-      <value>NetTie_2</value>
-      <footprint>Lol_20230821:Lol_0603_tie</footprint>
-      <libsource lib="Lol_20230821" part="TestPoint_Link_0603" description="Breakin test point 0603"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Breakin test point 0603"/>
-      <property name="ki_keywords" value="Break in, Test point, 0603"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>26b23a5d-d312-4efd-ba4d-44c0167e60a9</tstamps>
-    </comp>
     <comp ref="R300">
-      <value>2R4</value>
+      <value>1R5</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Farnell Part/Stock">https://uk.farnell.com/panasonic/erj3bqf1r5v/current-sense-res-1r5-1-200-mw/dp/1892906</field>
+        <field name="Farnell Stock">1892906</field>
+      </fields>
       <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Farnell Part/Stock" value="https://uk.farnell.com/panasonic/erj3bqf1r5v/current-sense-res-1r5-1-200-mw/dp/1892906"/>
+      <property name="Farnell Stock" value="1892906"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
@@ -1206,49 +1215,22 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>96d01588-92bc-4be9-80f6-ac35fa7e3187</tstamps>
     </comp>
-    <comp ref="R301">
-      <value>100R</value>
-      <footprint>Lol_20230821:Lol_0603</footprint>
-      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>cba7cffd-1586-4971-b292-e0e115b4b0e6</tstamps>
-    </comp>
     <comp ref="R302">
-      <value>2R4</value>
+      <value>1R5</value>
       <footprint>Lol_20230821:Lol_0603</footprint>
+      <fields>
+        <field name="Farnell Price/Stock">https://uk.farnell.com/panasonic/erj3bqf1r5v/current-sense-res-1r5-1-200-mw/dp/1892906</field>
+        <field name="Farnell Stock Number">1892906</field>
+      </fields>
       <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
+      <property name="Farnell Price/Stock" value="https://uk.farnell.com/panasonic/erj3bqf1r5v/current-sense-res-1r5-1-200-mw/dp/1892906"/>
+      <property name="Farnell Stock Number" value="1892906"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="cardboard.kicad_sch"/>
       <property name="ki_description" value="Resistor"/>
       <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b079e126-1681-44e2-8318-b89b37cc7b20</tstamps>
-    </comp>
-    <comp ref="R303">
-      <value>47k</value>
-      <footprint>Lol_20230821:Lol_0603</footprint>
-      <libsource lib="Lol_20230821" part="Lol_R" description="Resistor"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>33baf6ac-2f62-4fd3-b68e-f33ffd0c59e7</tstamps>
-    </comp>
-    <comp ref="R400">
-      <value>NetTie_2</value>
-      <footprint>Lol_20230821:Lol_0603_tie</footprint>
-      <libsource lib="Lol_20230821" part="TestPoint_Link_0603" description="Breakin test point 0603"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="cardboard.kicad_sch"/>
-      <property name="ki_description" value="Breakin test point 0603"/>
-      <property name="ki_keywords" value="Break in, Test point, 0603"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6ff07a57-a921-456f-8441-773fd88d4af3</tstamps>
     </comp>
     <comp ref="U200">
       <value>ST25R3916B-AQWT</value>
@@ -1302,38 +1284,6 @@
     </comp>
   </components>
   <libparts>
-    <libpart lib="Connector" part="8P8C_Shielded">
-      <description>RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61, Shielded</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>8P8C*</fp>
-        <fp>RJ31*</fp>
-        <fp>RJ32*</fp>
-        <fp>RJ33*</fp>
-        <fp>RJ34*</fp>
-        <fp>RJ35*</fp>
-        <fp>RJ41*</fp>
-        <fp>RJ45*</fp>
-        <fp>RJ49*</fp>
-        <fp>RJ61*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">8P8C_Shielded</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-        <pin num="3" name="" type="passive"/>
-        <pin num="4" name="" type="passive"/>
-        <pin num="5" name="" type="passive"/>
-        <pin num="6" name="" type="passive"/>
-        <pin num="7" name="" type="passive"/>
-        <pin num="8" name="" type="passive"/>
-        <pin num="SH" name="" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Connector" part="Conn_01x02_Pin">
       <description>Generic connector, single row, 01x02, script generated</description>
       <docs>~</docs>
@@ -1513,15 +1463,15 @@
       </pins>
     </libpart>
     <libpart lib="Lol_20230821" part="MountingHole_Pad_NC">
-      <description>Mounting Hole with connection</description>
+      <description>Mounting Hole no connection</description>
       <docs>~</docs>
       <footprints>
         <fp>MountingHole*Pad*</fp>
       </footprints>
       <fields>
         <field name="Reference">H</field>
-        <field name="Value">MountingHole_Pad</field>
-        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3_Pad</field>
+        <field name="Value">MountingHole NC</field>
+        <field name="Footprint">Lol_20230821:MountingHole_3.2mm_M3_Pad NPTH</field>
         <field name="Datasheet">~</field>
       </fields>
     </libpart>
@@ -1650,16 +1600,7 @@
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
-    </library>
-    <library logical="Lol_20230821">
-      <uri>C:/Users/lol/Documents/KiCad/LolLibs/symbols/Lol_20230821.kicad_sym</uri>
-    </library>
-    <library logical="Lol_SamacSys_Parts">
-      <uri>C:/SamacSys_PCB_Library/KiCad/SamacSys_Parts.kicad_sym</uri>
-    </library>
-    <library logical="SamacSys_Parts">
-      <uri>C:/SamacSys_PCB_Library/KiCad/SamacSys_Parts.kicad_sym</uri>
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -1667,13 +1608,11 @@
       <node ref="C304" pin="2" pinfunction="VT" pintype="passive"/>
       <node ref="C307" pin="2" pinfunction="VT" pintype="passive"/>
       <node ref="C314" pin="2" pinfunction="VT" pintype="passive"/>
-      <node ref="P202" pin="1" pintype="passive"/>
       <node ref="U200" pin="19" pinfunction="AAT_B" pintype="passive"/>
     </net>
     <net code="2" name="/AAT_S">
       <node ref="C302" pin="2" pinfunction="VT" pintype="passive"/>
       <node ref="C311" pin="2" pinfunction="VT" pintype="passive"/>
-      <node ref="P200" pin="1" pintype="passive"/>
       <node ref="U200" pin="18" pinfunction="AAT_A" pintype="passive"/>
     </net>
     <net code="3" name="/AGDC">
@@ -1683,34 +1622,26 @@
     </net>
     <net code="4" name="/CS">
       <node ref="J412" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="J413" pin="8" pintype="passive"/>
       <node ref="U200" pin="29" pinfunction="BSS" pintype="passive"/>
     </net>
     <net code="5" name="/EXT_LM">
       <node ref="J408" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="Q300" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="R303" pin="2" pintype="passive"/>
       <node ref="U200" pin="17" pinfunction="EXT_LM" pintype="passive"/>
     </net>
     <net code="6" name="/IRQ">
       <node ref="J412" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="J413" pin="2" pintype="passive"/>
       <node ref="U200" pin="27" pinfunction="IRQ" pintype="passive"/>
     </net>
     <net code="7" name="/LED1">
       <node ref="J412" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="J413" pin="4" pintype="passive"/>
       <node ref="R101" pin="2" pintype="passive"/>
     </net>
     <net code="8" name="/MISO">
       <node ref="J412" pin="5" pinfunction="Pin_5" pintype="passive"/>
-      <node ref="J413" pin="5" pintype="passive"/>
-      <node ref="R116" pin="1" pintype="passive"/>
       <node ref="U200" pin="32" pinfunction="MISO/SDA" pintype="passive"/>
     </net>
     <net code="9" name="/MOSI">
       <node ref="J412" pin="6" pinfunction="Pin_6" pintype="passive"/>
-      <node ref="J413" pin="6" pintype="passive"/>
       <node ref="U200" pin="31" pinfunction="MOSI" pintype="passive"/>
     </net>
     <net code="10" name="/RFI1">
@@ -1737,8 +1668,6 @@
     </net>
     <net code="14" name="/SCLK">
       <node ref="J412" pin="7" pinfunction="Pin_7" pintype="passive"/>
-      <node ref="J413" pin="7" pintype="passive"/>
-      <node ref="R117" pin="1" pintype="passive"/>
       <node ref="U200" pin="30" pinfunction="SCLK/SCL" pintype="passive"/>
     </net>
     <net code="15" name="/VDD">
@@ -1747,7 +1676,6 @@
       <node ref="C215" pin="1" pintype="passive"/>
       <node ref="C216" pin="1" pintype="passive"/>
       <node ref="J400" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="R400" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U200" pin="10" pinfunction="VDD_TX" pintype="passive"/>
       <node ref="U200" pin="8" pinfunction="VDD" pintype="passive"/>
     </net>
@@ -1778,11 +1706,6 @@
       <node ref="C100" pin="1" pintype="passive"/>
       <node ref="C208" pin="1" pintype="passive"/>
       <node ref="L400" pin="1" pintype="passive"/>
-      <node ref="R100" pin="2" pintype="passive"/>
-      <node ref="R116" pin="2" pintype="passive"/>
-      <node ref="R117" pin="2" pintype="passive"/>
-      <node ref="R204" pin="2" pintype="passive"/>
-      <node ref="R400" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U200" pin="1" pinfunction="VDD_IO" pintype="passive"/>
     </net>
     <net code="21" name="GND">
@@ -1820,15 +1743,8 @@
       <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
       <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
       <node ref="J412" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="J413" pin="3" pintype="passive"/>
-      <node ref="J413" pin="SH" pintype="passive"/>
       <node ref="LED100" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="LED101" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="P200" pin="2" pintype="passive"/>
-      <node ref="P202" pin="2" pintype="passive"/>
-      <node ref="Q300" pin="2" pinfunction="S" pintype="passive"/>
-      <node ref="R205" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="R303" pin="1" pintype="passive"/>
       <node ref="U200" pin="12" pinfunction="GND_DR_1" pintype="passive"/>
       <node ref="U200" pin="16" pinfunction="GND_DR_2" pintype="passive"/>
       <node ref="U200" pin="21" pinfunction="VSS" pintype="passive"/>
@@ -1883,10 +1799,6 @@
       <node ref="C314" pin="4" pinfunction="Pt2" pintype="passive"/>
       <node ref="C315" pin="2" pintype="passive"/>
     </net>
-    <net code="30" name="Net-(D300-Pad3)">
-      <node ref="D300" pin="3" pintype="passive"/>
-      <node ref="R301" pin="2" pintype="passive"/>
-    </net>
     <net code="31" name="Net-(J401-Pin_1)">
       <node ref="J401" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U200" pin="25" pinfunction="TAD1" pintype="passive"/>
@@ -1901,33 +1813,21 @@
     </net>
     <net code="34" name="Net-(J411-Pin_1)">
       <node ref="AE300" pin="1" pintype="passive"/>
-      <node ref="D300" pin="1" pintype="passive"/>
-      <node ref="D300" pin="2" pintype="passive"/>
-      <node ref="J411" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J411" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="R300" pin="1" pintype="passive"/>
       <node ref="R302" pin="1" pintype="passive"/>
     </net>
     <net code="35" name="Net-(J412-Pin_1)">
       <node ref="J412" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J413" pin="1" pintype="passive"/>
       <node ref="L400" pin="2" pintype="passive"/>
     </net>
     <net code="36" name="Net-(LED100-A)">
       <node ref="LED100" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="R100" pin="1" pintype="passive"/>
     </net>
     <net code="37" name="Net-(LED101-A)">
       <node ref="LED101" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R101" pin="1" pintype="passive"/>
     </net>
-    <net code="38" name="Net-(Q300-D)">
-      <node ref="Q300" pin="3" pinfunction="D" pintype="passive"/>
-      <node ref="R301" pin="1" pintype="passive"/>
-    </net>
     <net code="39" name="Net-(U200-I2C_EN)">
-      <node ref="R204" pin="1" pintype="passive"/>
-      <node ref="R205" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U200" pin="20" pinfunction="I2C_EN" pintype="passive"/>
     </net>
     <net code="40" name="Net-(U200-XTI)">
