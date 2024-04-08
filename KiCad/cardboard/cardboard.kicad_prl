@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 36,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -66,18 +66,8 @@
       39,
       40
     ],
-<<<<<<< HEAD
-    "visible_layers": "000d1ff_fffffffe",
-=======
-    "visible_layers": "fffffff_ffffffff",
->>>>>>> 623eddf (Added oshw number to silkscreen kicad7)
+    "visible_layers": "000d1ff_ffffffff",
     "zone_display_mode": 0
-  },
-  "git": {
-    "repo_password": "",
-    "repo_type": "",
-    "repo_username": "",
-    "ssh_key": ""
   },
   "meta": {
     "filename": "cardboard.kicad_prl",
