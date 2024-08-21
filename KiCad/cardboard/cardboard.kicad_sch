@@ -3207,7 +3207,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:C") (at 213.36 41.91 0) (unit 1)
-    (in_bom yes) (on_board no) (dnp no)
+    (in_bom no) (on_board no) (dnp yes)
     (uuid 0bccc6a1-901f-4429-9fbc-a600f2d79b3d)
     (property "Reference" "C317" (at 213.36 39.37 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3673,7 +3673,7 @@
   (symbol (lib_id "Lol_20230821:TestPoint_Link_0603") (at 50.8 91.44 90) (unit 1)
     (in_bom no) (on_board yes) (dnp yes)
     (uuid 26b23a5d-d312-4efd-ba4d-44c0167e60a9)
-    (property "Reference" "R205" (at 52.07 88.9 0)
+    (property "Reference" "R205" (at 53.34 88.9 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "NetTie_2" (at 52.07 91.44 0)
@@ -3697,7 +3697,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:LXRW0YV600-054_Drawn") (at 208.28 30.48 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board no) (dnp no)
+    (in_bom no) (on_board no) (dnp yes)
     (uuid 2e3b33e3-5b0e-4758-9b36-9722f3d120d6)
     (property "Reference" "C304" (at 215.9 25.4 0)
       (effects (font (size 1.27 1.27)))
@@ -4615,7 +4615,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:Lol_LED") (at 35.56 96.52 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp yes)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 73674ab8-62a4-4a8a-a0c7-f243592f04bb)
     (property "Reference" "LED100" (at 38.1 96.52 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -5858,7 +5858,7 @@
   )
 
   (symbol (lib_id "Lol_20230821:LXRW0YV600-054_Drawn") (at 208.28 53.34 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board no) (dnp no)
+    (in_bom no) (on_board no) (dnp yes)
     (uuid ed1a6b72-6a82-434d-9e42-7bd5722b2298)
     (property "Reference" "C307" (at 215.9 48.26 0)
       (effects (font (size 1.27 1.27)))
