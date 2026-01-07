@@ -116,7 +116,7 @@ void demoNotif( rfalNfcState st )
       }
       // See if we can get an NDEF record from it
       NdefClass ndef(&gNFCReader);
-     if (ndef.ndefPollerContextInitialization(nfcDev) == ERR_NONE)
+      if (ndef.ndefPollerContextInitialization(nfcDev) == ERR_NONE)
       {
         Serial.println("ndef context initialized");
         ndefInfo info;
@@ -214,7 +214,7 @@ Serial.println(aat_a_val);
 Serial.println(aat_b_val);
   
   struct st25r3916AatTuneResult tune_result;
-//  gReaderHardware.st25r3916AatTune(NULL, &tune_result);
+  gReaderHardware.st25r3916AatTune(NULL, &tune_result);
   Serial.println("AAT Results:");
   Serial.print("     aat_a: ");  Serial.println(tune_result.aat_a);
   Serial.print("     aat_b: ");  Serial.println(tune_result.aat_b);
@@ -328,10 +328,12 @@ void loop() {
     {
       Serial.println("Full amplitude scan for AAT_B and AAT_A");
       Serial.println("aat_a,aat_b,amplitude");
-      for (int tempa =0; tempa <= 255; tempa++)
+      uint8_t lowest_amp =255;
+      uint8_t highest_amp =0;
+      for (int tempa =0; tempa <= 255; tempa+=8)
       {
         gReaderHardware.st25r3916WriteRegister(ST25R3916_REG_ANT_TUNE_A, tempa);
-        for (int tempb =0; tempb <= 255; tempb++)
+        for (int tempb =0; tempb <= 255; tempb+=8)
         {
           gReaderHardware.st25r3916WriteRegister(ST25R3916_REG_ANT_TUNE_B, tempb);
           Serial.print(tempa);
@@ -341,10 +343,17 @@ void loop() {
           // Measure AM
           uint8_t amp;
           gReaderHardware.st25r3916MeasureAmplitude(&amp);
+          lowest_amp = MIN(lowest_amp, amp);
+          highest_amp = MAX(highest_amp, amp);
           Serial.print(",");
           Serial.println(amp);
         }
       }
+      Serial.println();
+      Serial.print("Signal ranges from ");
+      Serial.print(lowest_amp);
+      Serial.print(" to ");
+      Serial.println(highest_amp);
     }
     else if ((c != '\n') && (idx < commandBufLen))
     {
