@@ -177,6 +177,7 @@ void demoNotif( rfalNfcState st )
 
 void setup() {
   Serial.begin(115200);
+  delay(500);
   Serial.println("Let's go!");
   Serial.print("MOSI: ");
   Serial.println(kPinMOSI);
