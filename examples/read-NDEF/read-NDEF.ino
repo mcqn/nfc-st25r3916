@@ -26,6 +26,14 @@
 #include <rfal_rfst25r3916.h>
 
 #if 1
+// ESP32S3 dev board
+const int kPinMOSI = 11;
+const int kPinMISO = 13;
+const int kPinSCK = 12;
+const int kPinSS = 10;
+const int kPinIRQ = 3;
+const int kPinLED = 46;
+#elif 0
 // LyraT board
 const int kPinMOSI = 13;
 const int kPinMISO = 14;
@@ -168,15 +176,12 @@ void demoNotif( rfalNfcState st )
 void setup() {
   Serial.begin(115200);
   Serial.println("Let's go!");
-  Serial.print("MOSI: ");
-  Serial.println(kPinMOSI);
-  Serial.print("MISO: ");
-  Serial.println(kPinMISO);
-  Serial.print("SS: ");
-  Serial.println(kPinSS);
-  Serial.print("SCK: ");
-  Serial.println(kPinSCK);
   pinMode(kPinLED, OUTPUT);
+  Serial.print("Checking LED: ");
+  digitalWrite(kPinLED, HIGH);
+  delay(1000);
+  digitalWrite(kPinLED, LOW);
+  Serial.println("done");
   pinMode(kPinSS, OUTPUT);
   digitalWrite(kPinSS, HIGH);
   //clock miso mosi ss
@@ -184,7 +189,25 @@ void setup() {
 
   // put your setup code here, to run once:
   Serial.print("Initializing NFC: ");
-  Serial.println(gNFCReader.rfalNfcInitialize());
+  int err = gNFCReader.rfalNfcInitialize();
+  if (err != 0)
+  {
+    Serial.println("FAILED.");
+    if (err == ERR_HW_MISMATCH)
+    {
+      Serial.println("Couldn't talk to the chip, or it isn't an ST25R3916 or ST25R3916B.  Is it wired up correctly?");
+    }
+    else
+    {
+      Serial.print("rfalNfcInitialize returned error code ");
+      Serial.println(err);
+    }
+    while (1)
+    {
+      // Stop here.
+    }
+  }
+  Serial.println("OK");
 
   rfalNfcDiscoverParam discover_params;
   discover_params.devLimit = 1;
@@ -194,7 +217,20 @@ void setup() {
   discover_params.totalDuration = 1000U;
   discover_params.wakeupEnabled = true;
   Serial.print("Starting discovery mode: ");
-  Serial.println(gNFCReader.rfalNfcDiscover(&discover_params));
+  err = gNFCReader.rfalNfcDiscover(&discover_params);
+  if (err != 0)
+  {
+    Serial.println("FAILED.");
+    Serial.print("rfalNfcDiscover returned error code ");
+    Serial.println(err);
+    while (1)
+    {
+      // Stop here.
+    }
+  }
+  Serial.println("OK");
+  Serial.println();
+  Serial.println("Waiting for an RFID/NFC tag to be placed on the reader");
 }
 
 void loop() {
